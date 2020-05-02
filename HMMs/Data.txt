@@ -1,0 +1,38 @@
+# Lines that begin with # (hash/pound sign) are comments and can be ignored.
+#
+# There is one line per time slot for up to 40 timeslots (interactions)
+# In each timeslot there is a list of links that the user clicked on. 
+# For any one timeslot, the list may be empty
+PRICING
+PRICING
+TESTIMONIAL,PRICING
+VIDEO
+
+BLOG
+
+
+
+
+
+
+
+
+BLOG
+
+TESTIMONIAL
+BLOG
+
+
+
+
+
+
+BLOG
+
+
+
+PRICING
+
+
+
+
